@@ -1167,10 +1167,10 @@
   resolved "https://registry.npmjs.org/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@callstack/repack-dev-server@^4.3.3":
-  version "4.3.3"
-  resolved "https://registry.npmjs.org/@callstack/repack-dev-server/-/repack-dev-server-4.3.3.tgz#c1f909d4ad64537ec1e7f1e4d64a0b4f625be659"
-  integrity sha512-ofHhLET+mkAX6hEuF0tR/hpfqeP2xsQqnkme3BqqgghvuwB3KRPPY5qNaA9L0vS27iAwHeuBaGVDom/L7WmszA==
+"@callstack/repack-dev-server@^4.4.0-canary-20240909082848":
+  version "4.4.0-canary-20240909082848"
+  resolved "https://registry.npmjs.org/@callstack/repack-dev-server/-/repack-dev-server-4.4.0-canary-20240909082848.tgz#d1e2b38653eb892d76c05c7b579a46819cd4a430"
+  integrity sha512-x1fUYPl9C31pJRLufaCfbraXQo5FdQ7Iw/78+wT5hAtuJ4rNzyFfmPHazsQohHfvKlxS/CmFJcRId2SoEweKRw==
   dependencies:
     "@babel/code-frame" "^7.16.7"
     "@fastify/middie" "^8.3.0"
@@ -1184,12 +1184,12 @@
     source-map "^0.7.4"
     ws "^8.7.0"
 
-"@callstack/repack@4.3.3":
-  version "4.3.3"
-  resolved "https://registry.npmjs.org/@callstack/repack/-/repack-4.3.3.tgz#bf0ebf565495ed4b8151a22f968926e0f3e29496"
-  integrity sha512-6M4vgcUBN/yAf7/cEfwm16Nh5m2bn4xTJAH/joL9wLRFYGOrZN77CLFD6dDDFVAuIfieplu1AcaEvloaLIAXHA==
+"@callstack/repack@4.4.0-canary-20240909082848":
+  version "4.4.0-canary-20240909082848"
+  resolved "https://registry.npmjs.org/@callstack/repack/-/repack-4.4.0-canary-20240909082848.tgz#7178a77dd2d661a4db03e31747b157ea2fab7c58"
+  integrity sha512-fSSjkOMVt5By0wg+HTNmnvnUCZABvtrTbcxMg2ZVktsUryg9GoB6SSNsERScYGKTTqwSTXr+9kFNfTLt+mW1hw==
   dependencies:
-    "@callstack/repack-dev-server" "^4.3.3"
+    "@callstack/repack-dev-server" "^4.4.0-canary-20240909082848"
     "@discoveryjs/json-ext" "^0.5.7"
     "@pmmmwh/react-refresh-webpack-plugin" "^0.5.13"
     colorette "^1.2.2"
